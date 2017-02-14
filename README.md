@@ -1,7 +1,7 @@
 # ComplexNetworkSimulation
 *By:Stronger*<br>
-## This project is a simulation of Complex Network and the main goal is to test the capacity of the network.<br>
-
+## This project is a simulation of Complex Network and The main goal is to test the capacity of the network under different routing strategies and node processing capacity.<br>
+## 本项目的为复杂网络的仿真程序，主要目标为测试网络在不同路由策略、节点处理能力条件下的容量<br>
 ---
 
 ## v0.1.1(2017/2/14 12:00:00)
