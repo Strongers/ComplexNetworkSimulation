@@ -1,6 +1,6 @@
 # ComplexNetworkSimulation
-By:Stronger<br>
-This project is a simulation of Complex Network and the main goal is to test the capacity of the network.<br>
+*By:Stronger*<br>
+## This project is a simulation of Complex Network and the main goal is to test the capacity of the network.<br>
 
 ---
 
